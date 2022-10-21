@@ -1,0 +1,167 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #FFFFFF;
+}
+header{
+    position: absolute;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    background: #E6E6E6;
+}
+.foto{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 670px;
+    top: 20.91px;
+}
+#titulo{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    background: #C4C4C4;
+}
+#titulo h1{
+    position: absolute;
+    width: 1016px;
+    height: 29.87px;
+    left: 213px;
+    top: 12px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+.datper{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 376px;
+    background: #C4C4C4;
+}
+.datper h3{
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 50px;
+    top: 6px;
+    font-family: 'sans serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+.datper ul{
+    position: absolute;
+    font-family: 'sans serif';
+    width: 432px;
+    height: 13px;
+    left: 36px;
+    top: 38px;
+
+}
+.formacad{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 528px;
+    background: #C4C4C4;
+}
+.formacad h3{
+    position: absolute;
+    width: 489.68px;
+    height: 17px;
+    left: 50px;
+    top: 7px;
+    font-family: 'sans serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+table{
+    position: absolute;
+    width: 1440px;
+    height: 30px;   
+    left: 50px;
+    top: 40px;
+    font-family: 'sans serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+}
+.formacad p{
+    position: absolute;
+    width: 700px;
+    height: 34px;
+    left: 50px;
+    top: 84px;
+    font-family: 'sans serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 2;
+    color: #000000;
+}
+
+.experlab{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 1018px;
+    background: #C4C4C4;
+}
+.experlab h3{
+    position: absolute;
+    width: 467.55px;
+    height: 17px;
+    left: 50px;
+    top: 8px;
+    font-family: 'sans serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+.experlab ul{
+    position: relative;
+    width: 762px;
+    height: 253px;
+    left: 50px;
+    top: 43px;
+    font-family: 'sans serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 2;
+    color: #000000;
+}
+footer{
+    position: absolute;
+    font-family: sans-serif;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 1620px;
+    background: #C4C4C4;
+}
+
